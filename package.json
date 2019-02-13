@@ -15,9 +15,6 @@
             "web": "http://www.jeanfrancoisparadis.com"
         }
     ],
-    "dependencies": {
-        "http://github.com/jfparadis/requirejs-tpl": "master"
-    },
     "bugs": {
         "url": "https://github.com/jfparadis/requirejs-tpl/issues"
     },
